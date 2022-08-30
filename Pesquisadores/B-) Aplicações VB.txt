@@ -1,0 +1,1 @@
+0Também chamada de VB, ela facilita a criação de aplicativos e combina funções e comandos BASIC com controles visuais, além de fornecer uma interface gráfica de usuário GUI (Graphical User Interface), que permite ao dev arrastar e soltar objetos no programa, além de escrever manualmente o código.
