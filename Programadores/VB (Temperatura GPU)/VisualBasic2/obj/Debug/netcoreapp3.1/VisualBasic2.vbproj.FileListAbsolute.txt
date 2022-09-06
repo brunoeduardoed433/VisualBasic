@@ -1,0 +1,13 @@
+C:\Users\Aluno\Documents\VB\VisualBasic2\bin\Debug\netcoreapp3.1\VisualBasic2.exe
+C:\Users\Aluno\Documents\VB\VisualBasic2\bin\Debug\netcoreapp3.1\VisualBasic2.deps.json
+C:\Users\Aluno\Documents\VB\VisualBasic2\bin\Debug\netcoreapp3.1\VisualBasic2.runtimeconfig.json
+C:\Users\Aluno\Documents\VB\VisualBasic2\bin\Debug\netcoreapp3.1\VisualBasic2.runtimeconfig.dev.json
+C:\Users\Aluno\Documents\VB\VisualBasic2\bin\Debug\netcoreapp3.1\VisualBasic2.dll
+C:\Users\Aluno\Documents\VB\VisualBasic2\bin\Debug\netcoreapp3.1\VisualBasic2.pdb
+C:\Users\Aluno\Documents\VB\VisualBasic2\obj\Debug\netcoreapp3.1\VisualBasic2.vbprojAssemblyReference.cache
+C:\Users\Aluno\Documents\VB\VisualBasic2\obj\Debug\netcoreapp3.1\VisualBasic2.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\VB\VisualBasic2\obj\Debug\netcoreapp3.1\VisualBasic2.AssemblyInfo.vb
+C:\Users\Aluno\Documents\VB\VisualBasic2\obj\Debug\netcoreapp3.1\VisualBasic2.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\VB\VisualBasic2\obj\Debug\netcoreapp3.1\VisualBasic2.dll
+C:\Users\Aluno\Documents\VB\VisualBasic2\obj\Debug\netcoreapp3.1\VisualBasic2.pdb
+C:\Users\Aluno\Documents\VB\VisualBasic2\obj\Debug\netcoreapp3.1\VisualBasic2.genruntimeconfig.cache
