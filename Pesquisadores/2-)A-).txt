@@ -1,0 +1,2 @@
+Você declara uma variável para especificar seu nome e características. A instrução de declaração para variáveis é a Instrução Dim. Sua localização e conteúdo determinam as características da variável.
+O Visual Basic permite testar as condições e executar operações diferentes dependendo dos resultados desse teste. Você pode testar se uma condição é verdadeira ou falsa, para vários valores de uma expressão ou para várias exceções geradas quando você executa uma série de instruções.
