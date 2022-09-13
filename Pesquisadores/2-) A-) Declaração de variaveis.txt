@@ -1,1 +1,0 @@
-Você declara uma variável para especificar seu nome e características. A instrução de declaração para variáveis é a Instrução Dim. Sua localização e conteúdo determinam as características da variável.
