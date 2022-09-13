@@ -1,0 +1,62 @@
+https://docs.microsoft.com/pt-br/dotnet/visual-basic/programming-guide/language-features/procedures/function-procedures
+Declaração de função
+
+Procedimentos Function (Visual Basic):
+
+
+Um procedimento Function é uma série de instruções do Visual Basic entre instruções Function e End Function. O procedimento Function executa uma tarefa e retorna o controle para o código de chamada. Quando ele retorna o controle, ele também retorna um valor para o código de chamada.
+
+Cada vez que o procedimento é chamado, suas instruções são executadas, começando com a primeira instrução executável após a instrução Function e terminando com a primeira instrução End Function, Exit Function ou Return encontrada.
+
+Você pode definir um procedimento Function em um módulo, classe ou estrutura. É Public por padrão, o que significa que você pode chamá-lo de qualquer lugar em seu aplicativo que tenha acesso ao módulo, classe ou estrutura na qual você o definiu.
+
+Um procedimento Function pode usar argumentos, como constantes, variáveis ou expressões, que são passados para ele pelo código de chamada.
+
+
+
+Sintaxe da declaração:
+
+[Modifiers] Function FunctionName [(ParameterList)] As ReturnType
+    [Statements]
+End Function
+
+
+Tipos de dados: 
+
+Cada procedimento Function tem um tipo de dados, assim como todas as variáveis. Esse tipo de dados é especificado pela cláusula As na instrução Function e determina o tipo de dados do valor que a função retorna ao código de chamada. 
+
+Ex: 
+
+Function Yesterday() As Date
+End Function
+
+Function FindSqrt(radicand As Single) As Single
+End Function
+
+
+
+Retornando Valores: 
+
+
+O valor que um procedimento Function envia de volta para o código de chamada é chamado de valor retornado.
+
+Ele usa a instrução Return para especificar o valor retornado e retorna o controle imediatamente para o programa de chamada.
+
+Ex:
+
+Function FunctionName [(ParameterList)] As ReturnType
+    ' The following statement immediately transfers control back
+    ' to the calling code and returns the value of Expression.
+    Return Expression
+End Function
+
+Ele atribui um valor ao seu próprio nome de função em uma ou mais instruções do procedimento. O controle não retorna ao programa de chamada até que uma instrução Exit Function ou End Function seja executada
+
+
+Ex: 
+
+Function FunctionName [(ParameterList)] As ReturnType
+    ' The following statement does not transfer control back to the calling code.
+    FunctionName = Expression
+    ' When control returns to the calling code, Expression is the return value.
+End Function
