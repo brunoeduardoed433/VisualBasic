@@ -1,0 +1,13 @@
+C:\Users\Aluno\Desktop\VisualBasic\VisualBasic\Programadores\Time De Futebol\bin\Debug\netcoreapp3.1\Time De Futebol.exe
+C:\Users\Aluno\Desktop\VisualBasic\VisualBasic\Programadores\Time De Futebol\bin\Debug\netcoreapp3.1\Time De Futebol.deps.json
+C:\Users\Aluno\Desktop\VisualBasic\VisualBasic\Programadores\Time De Futebol\bin\Debug\netcoreapp3.1\Time De Futebol.runtimeconfig.json
+C:\Users\Aluno\Desktop\VisualBasic\VisualBasic\Programadores\Time De Futebol\bin\Debug\netcoreapp3.1\Time De Futebol.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\VisualBasic\VisualBasic\Programadores\Time De Futebol\bin\Debug\netcoreapp3.1\Time De Futebol.dll
+C:\Users\Aluno\Desktop\VisualBasic\VisualBasic\Programadores\Time De Futebol\bin\Debug\netcoreapp3.1\Time De Futebol.pdb
+C:\Users\Aluno\Desktop\VisualBasic\VisualBasic\Programadores\Time De Futebol\obj\Debug\netcoreapp3.1\Time De Futebol.vbprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\VisualBasic\VisualBasic\Programadores\Time De Futebol\obj\Debug\netcoreapp3.1\Time De Futebol.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\VisualBasic\VisualBasic\Programadores\Time De Futebol\obj\Debug\netcoreapp3.1\Time De Futebol.AssemblyInfo.vb
+C:\Users\Aluno\Desktop\VisualBasic\VisualBasic\Programadores\Time De Futebol\obj\Debug\netcoreapp3.1\Time De Futebol.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\VisualBasic\VisualBasic\Programadores\Time De Futebol\obj\Debug\netcoreapp3.1\Time De Futebol.dll
+C:\Users\Aluno\Desktop\VisualBasic\VisualBasic\Programadores\Time De Futebol\obj\Debug\netcoreapp3.1\Time De Futebol.pdb
+C:\Users\Aluno\Desktop\VisualBasic\VisualBasic\Programadores\Time De Futebol\obj\Debug\netcoreapp3.1\Time De Futebol.genruntimeconfig.cache
